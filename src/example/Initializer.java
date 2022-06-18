@@ -1,7 +1,6 @@
 package example;
 
 import mindustry.mod.*;
-import mindustry.content.Blocks;
 
 // I use java to bootstrap the scala class
 public class Initializer extends Mod {
